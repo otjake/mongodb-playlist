@@ -1,5 +1,5 @@
 const assert = require('assert');
-const MarioChar = require('../models/mariochar');
+const MarioChar = require('../mariochar');
 
 // Describe our tests
 describe('Deleting records', function(){
